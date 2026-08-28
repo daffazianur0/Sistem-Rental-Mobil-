@@ -2,7 +2,7 @@
 
 ![](screenshoot/login.png)
 
-Aplikasi Rental Mobil berbasis web dibangun dengan laravel 5.8 dan Mysql
+Sistem Informasi Rental Mobil berbasis Laravel adalah aplikasi web modern yang dirancang untuk mengotomatisasi dan mempermudah seluruh alur bisnis penyewaan kendaraan.
 
 ## Fiitur
 
